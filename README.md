@@ -20,4 +20,5 @@ https://github.com/YashaswiniBaglakadi/Finance-Fraud-Prediction/blob/53fffa30a1c
 - Exploratory data analysis (EDA)  
 - Visualizations  
 - A/B testing
-
+## Output
+![output](https://github.com/YashaswiniBaglakadi/Finance-Fraud-Prediction/blob/228aab8698c49f694decc537948a268746ff5e81/Output%20Image/Screenshot%202025-08-31%20112608.png)
